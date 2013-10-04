@@ -1,0 +1,21 @@
+portals:
+  to_england_01:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: _au79_
+    location: 415.0,50.0,203.0:415.0,53.0,206.0
+    world: DoomClone
+    destination: p:to_doomclone_01
+  to_doomclone_01:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: _au79_
+    location: -256.0,80.0,-11.0:-256.0,83.0,-8.0
+    world: England
+    destination: p:to_england_01

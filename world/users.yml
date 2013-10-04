@@ -1,0 +1,7 @@
+#Users list, only list that should be in the file
+users:
+  #The user name, always lower case
+  _au79_:
+    #Where you can specify per-player permissions
+    permissions:
+    - bPermissions.admin

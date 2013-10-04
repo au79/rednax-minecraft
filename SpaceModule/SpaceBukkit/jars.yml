@@ -1,0 +1,12 @@
+spacebukkit: spacebukkit.jar
+remotetoolkitplugin: MinecraftRKitPlugin.jar
+multiworld: multiworld.jar
+bpermissionswebgui: WebGUI_Server.jar
+bpermissions: bpermissions.jar
+multiverse-core: Multiverse-Core-2.5.jar
+multiverse-portals: Multiverse-Portals-2.4.jar
+permissionsbukkit: PermissionsBukkit-2.0.jar
+multiverse-inventories: Multiverse-Inventories-2.5.jar
+multiverse-signportals: Multiverse-SignPortals-2.4.jar
+terraincontrol: TerrainControl.jar
+worldedit: WorldEdit.jar

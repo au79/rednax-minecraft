@@ -1,0 +1,6 @@
+Backups
+*.jar
+*~
+#*#
+*.log
+*.log.1
