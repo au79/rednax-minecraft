@@ -3,4 +3,7 @@ Backups
 *~
 #*#
 *.log
-*.log.1
+*.log.*
+*.lock
+*.dat
+*.dat_old
