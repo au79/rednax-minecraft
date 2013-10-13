@@ -43,7 +43,6 @@ groups:
     user:
         permissions:
             permissions.build: false
-            multiverse.teleport.self.*: true
             multiverse.access.England: true
             multiverse.access.DoomClone: true
             multiverse.access.world: true
@@ -51,13 +50,9 @@ groups:
             multiverse.access.world_the_end: true
         worlds:
             DoomClone: 
-                permissions.build: false
+                permissions.build: true
             England: 
                 permissions.build: true
-            Planar:
-                permissions.build: false
-            entrance:
-                permissions.build: false
             world:
                 permissions.build: true
             world_nether:
@@ -75,6 +70,8 @@ users:
     Ceeperstheygoboo:
         permissions:
             multiverse.access.*: true
+            multiverse.teleport.other.*: true
+            multiverse.teleport.self.*: true
             multiverse.core.spawn.set: true
             permissions.build: true
         groups:
@@ -82,22 +79,23 @@ users:
     webnesto:
         permissions:
             multiverse.access.*: true
+            multiverse.teleport.self.*: true
             permissions.build: true
         groups:
         - user
     Manturtl3:
         groups:
         - user
-    PeterODonnell:
-        groups:
-        - user
     ROOKIEI17:
         groups:
         - user
-    dabombkellen26:
+    rexmanowns:
         groups:
         - user
-    rexmanowns:
+    LamoPolo:
+        groups:
+        - user
+    nbfenske:
         groups:
         - user
 debug: false
