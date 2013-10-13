@@ -19,3 +19,13 @@ portals:
     location: -256.0,80.0,-11.0:-256.0,83.0,-8.0
     world: England
     destination: p:to_england_01
+  walldrop:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: _au79_
+    location: 585.0,45.0,-48.0:587.0,45.0,-46.0
+    world: DoomClone
+    destination: e:DoomClone:473.96187070933024,73.0,203.27311989720891:9.900008:-236.40045
